@@ -1,5 +1,5 @@
 {
-  "name": "vue-router",
+  "name": "vue-router-fix-dom-exception-18",
   "version": "0.7.13",
   "description": "A router for Vue.js",
   "main": "dist/vue-router.js",
@@ -33,12 +33,12 @@
     "router",
     "mvvm"
   ],
-  "author": "Evan You",
+  "author": "devneko",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vuejs/vue-router/issues"
+    "url": "https://github.com/dotneet/vue-router/issues"
   },
-  "homepage": "https://github.com/vuejs/vue-router#readme",
+  "homepage": "https://github.com/dotneet/vue-router#readme",
   "devDependencies": {
     "babel-core": "^5.8.33",
     "babel-loader": "^5.3.3",
